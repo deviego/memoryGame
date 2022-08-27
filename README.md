@@ -33,10 +33,5 @@ Foi usado tecnologias para ter a melhor experiência para o usuário
 
 <h3 id="hospedagem"> Hospedagem</h3>
 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
-- [Node.js](https://nodejs.org/en/)
-- [SMTP for Google](https://github.com/deviego/TransporterGmail)
-- [Yarn](https://classic.yarnpkg.com/lang/en/docs/)
-
 #
 
