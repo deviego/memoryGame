@@ -5,15 +5,9 @@ import brain from "../images/brain.png";
 
 export function Home() {
 
-  let user = '';
-   function handleName(name) {
-    user = name;
-    return user
-   } 
-    
-   function activeButton(user){
-      i
-   }
+const [name, setName] = useState('')
+
+
 
   
   return (
