@@ -8,8 +8,6 @@ export function Home() {
 const [name, setName] = useState('')
 
 
-
-  
   return (
     <>
           <form className="login-form">
